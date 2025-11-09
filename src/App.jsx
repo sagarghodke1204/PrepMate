@@ -10,7 +10,7 @@ import Footer from './components/layout/Footer';
 import AnimatedGradientBackground from './components/ui/AnimatedGradientBackground';
 
 // Pages
-import HomePage from './pages/HomePage';
+import HomePage from './pages/HomePage.jsx';
 import DemoRequestPage from './pages/DemoRequestPage';
 import ReportPage from './pages/ReportPage';
 import Dashboard from './pages/Dashboard';

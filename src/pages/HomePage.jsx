@@ -7,7 +7,7 @@ import PricingSection from "../components/sections/PricingSection.jsx";
 import FaqSection from "../components/sections/FaqSection.jsx";
 import CallToActionSection from "../components/sections/CallToActionSection.jsx";
 
-const Homepage = ({ navigateTo }) => (
+const HomePage = ({ navigateTo }) => (
     <>
         <HeroSection navigateTo={navigateTo} />
         <FeaturesSection />
@@ -18,4 +18,4 @@ const Homepage = ({ navigateTo }) => (
     </>
 );
 
-export default Homepage;
+export default HomePage;
