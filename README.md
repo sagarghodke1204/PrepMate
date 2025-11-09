@@ -9,7 +9,7 @@ This project is being built for the [Hiring News] (https://www.youtube.com/@sagg
 ### 🚀 [**View Live Demo**](https://prep-mate-eta.vercel.app/) 🚀
 
 ![Prepmate Demo](.github/assets/prepmate-demo.png)
-*()*
+
 
 ---
 
