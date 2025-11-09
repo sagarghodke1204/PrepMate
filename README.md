@@ -6,6 +6,8 @@ Prepmate is a web application designed to help students and aspiring developers 
 
 This project is being built for the [**Sagar Ghodke YouTube Channel**] (https://youtube.com/YOUR_CHANNEL_LINK_HERE) to demonstrate how to build a full-stack, AI-powered application from scratch.
 
+### 🚀 [**View Live Demo**](https://prep-mate-eta.vercel.app/) 🚀
+
 ![Prepmate Demo](https://link-to-your-demo-gif-or-screenshot.png)
 *(**Note:** Replace this line with a screenshot or GIF of your app!)*
 
@@ -120,8 +122,8 @@ To run this project locally, you will need to set up your own Supabase backend.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/Prepmate.git](https://github.com/your-username/Prepmate.git)
-    cd Prepmate
+    git clone [https://github.com/sagarghodke1204/PrepMate.git](https://github.com/sagarghodke1204/PrepMate.git)
+    cd PrepMate
     ```
 
 2.  **Install dependencies:**
@@ -148,6 +150,4 @@ To run this project locally, you will need to set up your own Supabase backend.
 
 ## 🧑‍💻 Contact
 
-
-
-Project Link: [https://github.com/your-username/Prepmate](https://github.com/your-username/Prepmate)
+Project Link: [https://github.com/sagarghodke1204/PrepMate.git](https://github.com/sagarghodke1204/PrepMate.git)
