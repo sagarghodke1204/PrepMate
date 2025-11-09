@@ -4,12 +4,12 @@
 
 Prepmate is a web application designed to help students and aspiring developers practice for technical interviews. Users can sign in, upload their resume, and engage in a realistic, AI-powered interview that asks questions based on their specific skills and projects.
 
-This project is being built for the [**Sagar Ghodke YouTube Channel**] (https://youtube.com/YOUR_CHANNEL_LINK_HERE) to demonstrate how to build a full-stack, AI-powered application from scratch.
+This project is being built for the [Hiring News] (https://www.youtube.com/@saggy9145) to demonstrate how to build a full-stack, AI-powered application from scratch.
 
 ### 🚀 [**View Live Demo**](https://prep-mate-eta.vercel.app/) 🚀
 
-![Prepmate Demo](https://link-to-your-demo-gif-or-screenshot.png)
-*(**Note:** Replace this line with a screenshot or GIF of your app!)*
+![Prepmate Demo](.github/assets/prepmate-demo.png)
+*()*
 
 ---
 
