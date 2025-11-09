@@ -148,6 +148,6 @@ To run this project locally, you will need to set up your own Supabase backend.
 
 ## 🧑‍💻 Contact
 
-Sagar Ghodke - [YouTube](https://youtube.com/YOUR_CHANNEL_LINK_HERE)
+
 
 Project Link: [https://github.com/your-username/Prepmate](https://github.com/your-username/Prepmate)
